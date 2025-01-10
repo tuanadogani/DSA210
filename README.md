@@ -18,13 +18,14 @@ The dataset contains information about my daily activities and feelings over the
 - *Physical Activity*: Step Count per day. Apple Health App will be the provider of this data.
 
 Data set I have used can be found [Data Folder](data/)
+Code related to my project can be foundCode related to my project can be found [here](https://github.com/tuanadogani/Dsa210/blob/main/dsa210.ipynb).
+
 
   ## Project Plan
 
   - Data cleaning
   - Corelation analysis and visualisation
-  - Examining trends
-  - Resulting most important correlations
+  - Examining trends if exists
   - conclusion comments and hypotesis re-evaluation
 
 
