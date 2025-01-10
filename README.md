@@ -33,13 +33,13 @@ The presentation of my project can be found [Presentatipn](https://www.canva.com
 
 ## Techniques Used
 
--Libraries: Pandas, NumPy, etc., are often used to import and manipulate datasets.
--Files: CSV, Excel
--Cleaning: removing unnecessary columns.
--Visualization: Use of Matplotlib, Seaborn, or Plotly for visual analysis.
--Descriptive Statistics: Calculating means, medians, standard deviations, correlations, etc.
--Hypothesis Testing: P-values.
--Correlation Analysis: Pearson or Spearman correlation.
+- *Libraries*: Pandas, NumPy, etc., are often used to import and manipulate datasets.
+- *Files*: CSV, Excel
+- *Cleaning*: removing unnecessary columns.
+- *Visualization*: Use of Matplotlib, Seaborn, or Plotly for visual analysis.
+- *Descriptive Statistics*: Calculating means, medians, standard deviations, correlations, etc.
+- *Hypothesis Testing*: P-values.
+- *Correlation Analysis*: Pearson or Spearman correlation.
 
 
 
